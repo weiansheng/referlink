@@ -46,6 +46,15 @@ export const referrals = [
     accent: 'emerald',
   },
   {
+    id: 'schwab-brokerage',
+    companyName: 'Charles Schwab',
+    category: 'Brokerages',
+    benefitText: 'Open an eligible Schwab account through this referral link.',
+    referralUrl: 'https://www.schwab.com/client-referral?refrid=REFER69GQHFE6',
+    logoUrl: 'CS',
+    accent: 'sky',
+  },
+  {
     id: 'sayweee-shopping',
     companyName: 'Weee!',
     category: 'Shopping',
