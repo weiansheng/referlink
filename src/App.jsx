@@ -5,6 +5,7 @@ import {
   Clipboard,
   CreditCard,
   ConciergeBell,
+  Cpu,
   Landmark,
   Coins,
   Search,
@@ -25,6 +26,7 @@ const categoryIcons = {
   Shopping: ShoppingBag,
   Food: ConciergeBell,
   Travel: ArrowUpRight,
+  Tech: Cpu,
 };
 
 const accentStyles = {

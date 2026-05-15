@@ -55,6 +55,25 @@ export const referrals = [
     accent: 'sky',
   },
   {
+    id: 'moomoo-brokerage',
+    companyName: 'Moomoo',
+    category: 'Brokerages',
+    benefitText: 'Open a Moomoo account through this referral link.',
+    referralUrl:
+      'https://start.moomoo.com/0BaIVT?global_content=%7B%22invite%22%3A73043710%7D',
+    logoUrl: 'MM',
+    accent: 'lime',
+  },
+  {
+    id: 'wispr-flow-tech',
+    companyName: 'Wispr Flow',
+    category: 'Tech',
+    benefitText: 'Try Wispr Flow through this referral link.',
+    referralUrl: 'https://wisprflow.ai/r?WEIAN1',
+    logoUrl: 'WF',
+    accent: 'emerald',
+  },
+  {
     id: 'sayweee-shopping',
     companyName: 'Weee!',
     category: 'Shopping',
